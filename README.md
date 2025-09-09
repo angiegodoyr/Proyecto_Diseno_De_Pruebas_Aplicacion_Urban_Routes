@@ -9,3 +9,11 @@ In this project, I worked on testing and documentation for the car-sharing featu
 - Identifying gray areas within the requirements and documenting them clearly.
 
 - Writing structured and detailed test cases.
+
+##Skills acquired:
+
+- Requirements Analysis
+
+- Test Design
+
+- Test Case Development
